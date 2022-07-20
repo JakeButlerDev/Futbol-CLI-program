@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997f5f53-3ef1-4cd3-8cf3-13e7fbcf963a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JavaBasicsUI.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Futbol CLI program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/butler/Club.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/butler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/butler/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/butler/Youth_Team.java" afterDir="false" />
-    </list>
+    <list default="true" id="997f5f53-3ef1-4cd3-8cf3-13e7fbcf963a" name="Changes" comment="First commit, beginning own CLI program to practice OOP principles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658321393199</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit, beginning own CLI program to practice OOP principles">
+      <created>1658330946046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658330946046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, beginning own CLI program to practice OOP principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, beginning own CLI program to practice OOP principles" />
   </component>
 </project>
