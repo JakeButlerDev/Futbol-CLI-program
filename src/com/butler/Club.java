@@ -4,19 +4,20 @@ import java.util.ArrayList;
 
 public class Club {
 
+    protected String name;
     private ArrayList<String> teamRoster;
-    private short yearFounded;
+    protected short yearFounded;
     private short titlesWon;
-    private String homeCity;
+    protected String homeCity;
     private String leagueDivision;
     private int stadiumCapacity;
     private int rosterSize;
 
-    public Club(short yearFounded, short titlesWon, String homeCity, String leagueDivision, int stadiumCapacity) {
+    public Club(String name, short yearFounded, short titlesWon, String homeCity, int stadiumCapacity) {
+        this.name = name;
         this.yearFounded = yearFounded;
         this.titlesWon = titlesWon;
         this.homeCity = homeCity;
-        this.leagueDivision = leagueDivision;
         this.stadiumCapacity = stadiumCapacity;
         this.rosterSize = teamRoster.size();
     }
@@ -49,6 +50,10 @@ public class Club {
 
     public int getRosterSize() {
         return rosterSize;
+    }
+
+    public String getName() {
+        return name;
     }
 
     // Update the club division if they are promoted or relegated.

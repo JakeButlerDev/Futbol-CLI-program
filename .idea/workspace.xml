@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997f5f53-3ef1-4cd3-8cf3-13e7fbcf963a" name="Changes" comment="First commit, beginning own CLI program to practice OOP principles" />
+    <list default="true" id="997f5f53-3ef1-4cd3-8cf3-13e7fbcf963a" name="Changes" comment="Amend first commit which had upload issues">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/butler/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/butler/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/butler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/butler/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/butler/Youth_Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/butler/Youth_Team.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,22 +38,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jakeb/OneDrive/Documents/CareerDevs/cohort18/intermediate_curriculum/JavaBasics",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jakeb/OneDrive/Documents/CareerDevs/cohort18/intermediate_curriculum/JavaBasics/src/com/butler&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.butler.Main" />
+      <module name="Futbol CLI program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.butler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658330946046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Amend first commit which had upload issues">
+      <created>1658338626678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658338626678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, beginning own CLI program to practice OOP principles" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, beginning own CLI program to practice OOP principles" />
+    <MESSAGE value="Amend first commit which had upload issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amend first commit which had upload issues" />
   </component>
 </project>

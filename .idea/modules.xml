@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Futbol CLI program.iml" filepath="$PROJECT_DIR$/Futbol CLI program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaBasics/src/com/butler/butler.iml" filepath="$PROJECT_DIR$/../JavaBasics/src/com/butler/butler.iml" />
     </modules>
   </component>
 </project>
